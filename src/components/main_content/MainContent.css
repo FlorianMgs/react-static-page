@@ -1,0 +1,39 @@
+
+.main--list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    font-size: calc(10px + 2vmin);
+    padding-left: 50px;
+  }
+  
+.main--list > li {
+  padding: 10px;
+}
+
+.main--list > li::marker {
+  color: #61dafb;
+  font-size: 1.2em;
+}
+  
+.container {
+    height: 100%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    padding:  60px 20px 20px 20px;
+}
+
+.main--title {
+  font-size: 50px
+}
+
+.main--logo_bg {
+  position: absolute;
+  height: 500px;
+  left: 82%;
+  top:25%;
+  filter: grayscale(100%);
+  opacity: 0.1;
+}

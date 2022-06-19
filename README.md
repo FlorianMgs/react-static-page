@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# React Static Page
 
+First project of FreeCodeCamp course about React.js. Just a simple static page.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
