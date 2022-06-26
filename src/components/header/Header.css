@@ -35,7 +35,7 @@
     padding: 30px;
   }
 
-  .header--title_logo {
+  .header--title_logo, .header--switch {
     display: flex;
     align-items: center;
     color: #61dafb;
